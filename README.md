@@ -1,2 +1,2 @@
 # databasetwo
-Em produção
+Ecommerce ultlizando sqlitestudio como base para criação do banco e tabelas.
